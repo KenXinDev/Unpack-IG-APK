@@ -59,7 +59,7 @@ python run.py -i original.apk -o patched.apk
 
 ### Advanced Options
 ```bash
-python instagram_ssl_bypass.py \
+python run.py \
   -i original.apk \
   -o custom_name.apk \
   --keystore my.keystore \
